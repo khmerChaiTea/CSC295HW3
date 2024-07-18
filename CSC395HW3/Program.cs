@@ -12,10 +12,10 @@ namespace CSC295HW3
             // List of students with initial data
             List<Student> students = new List<Student>
             {
-                new Student("Alice", 3.5),
-                new Student("Bob", 3.2),
-                new Student("Charlie", 3.8),
-                new Student("James", 3.5),
+                new Student("Allen", 3.5),
+                new Student("Berry", 3.2),
+                new Student("Ethan", 3.8),
+                new Student("Sarah", 4),
                 new Student("Jack", 3.2),
                 new Student("Jill", 3.0),
                 // Uncomment the line below to see how exception is handled for invalid GPA
